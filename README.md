@@ -1,4 +1,4 @@
-# vite2-beta60-svelte3
+# vite2-beta69-svelte3
 
 ทดสอบการ update DOM ด้วย timer กับ vite2 + vue3 เปรียบเทียบจากโจทย์เดียวกัน และใช้ vite (vitejs.dev) เป็น web dev server (โดยหยิบยืม default template ของ vue3 มาเป็นโจทย์) ดังนี้
 
